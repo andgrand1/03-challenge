@@ -1,0 +1,17 @@
+ <03-Challenge>
+
+## Description
+
+This website was designed to generate a random password based off the chosen criteria selected by the user. 
+
+
+
+
+## Usage
+
+User should provide a password length between 8-128 characters. These characters may or may not icnlude upper and lowercase letters, numbers and/or special characters. 
+
+
+
+
+
